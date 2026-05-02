@@ -114,7 +114,7 @@ Microsoft Certified: Azure Fundamentals (2021)
 ### **Identity & Microsoft 365**
 Microsoft Certified: Identity and Access Administrator Associate (2026–2027)  
 Microsoft 365 Certified: Teams Administrator Associate (2026–2027)  
-Microsoft 365 Certified: Endpoint Administrator Associate (2024–2025)
+Microsoft 365 Certified: Endpoint Administrator Associate (2024–2026)
 
 ### **Networking & Security**
 Cisco CCNA (2022–2025)  
@@ -129,5 +129,5 @@ CompTIA A+ (2021–2024)
 ## Links
 
 <a href="https://linkedin.com/in/lauriealdam">LinkedIn</a> | 
-<a href="https://ms.ljalabs.xyz/transcript">Transcript</a> | 
+<a href="https://ms.ljalabs.xyz/transcript">MS Learn</a> | 
 <a href="mailto:me@ljalabs.xyz">Email</a>
