@@ -7,10 +7,25 @@ layout: resume
 
 > Cloud & Infrastructure Engineer with experience across modern workplace, identity, security and infrastructure transformation in enterprise Microsoft environments. A well-rounded, intuitive, and personable IT professional with a strong focus on continuous learning and practical problem-solving. Experienced in implementing Microsoft 365 services, identity platforms, and hybrid infrastructure while driving cloud-first transformation.
 
-## Education
+## Certifications
 
-### **Qualification – Institution Name**
-*Year Completed*
+### **Cloud & Infrastructure**
+Microsoft Certified: Azure Administrator Associate (2023–2026)  
+Microsoft Certified: Windows Server Hybrid Administrator Associate (2024–2026)  
+Microsoft Certified: Azure Fundamentals (2021)
+
+### **Identity & Microsoft 365**
+Microsoft Certified: Identity and Access Administrator Associate (2026–2027)  
+Microsoft 365 Certified: Teams Administrator Associate (2026–2027)  
+Microsoft 365 Certified: Endpoint Administrator Associate (2024–2026)
+
+### **Networking & Security**
+Cisco CCNA (2022–2025)  
+CompTIA Security+ (2022–2025)  
+CompTIA Network+ (2022–2025)
+
+### **Foundational IT**
+CompTIA A+ (2021–2024)
 
 ## Skills
 
@@ -82,6 +97,7 @@ Provided 2nd and 3rd line infrastructure support across a nationwide enterprise 
 - Took ownership of SQL-backed line-of-business applications after team restructure, ensuring service continuity  
 - Maintained ticketing system records and knowledge base documentation  
 
+
 ## Key Projects & Contributions
 
 - Cloud migration initiatives across Microsoft 365 and Azure environments  
@@ -89,26 +105,6 @@ Provided 2nd and 3rd line infrastructure support across a nationwide enterprise 
 - Identity modernisation using Entra ID and Conditional Access policies  
 - Support continuity for critical SQL-based business applications  
 - Infrastructure stabilisation during hybrid cloud transition phases  
-
-## Certifications
-
-### **Cloud & Infrastructure**
-Microsoft Certified: Azure Administrator Associate (2023–2026)  
-Microsoft Certified: Windows Server Hybrid Administrator Associate (2024–2026)  
-Microsoft Certified: Azure Fundamentals (2021)
-
-### **Identity & Microsoft 365**
-Microsoft Certified: Identity and Access Administrator Associate (2026–2027)  
-Microsoft 365 Certified: Teams Administrator Associate (2026–2027)  
-Microsoft 365 Certified: Endpoint Administrator Associate (2024–2026)
-
-### **Networking & Security**
-Cisco CCNA (2022–2025)  
-CompTIA Security+ (2022–2025)  
-CompTIA Network+ (2022–2025)
-
-### **Foundational IT**
-CompTIA A+ (2021–2024)
 
 ## Links
 
