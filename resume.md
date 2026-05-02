@@ -52,7 +52,8 @@ PKI, Conditional Access, MFA, FIDO2, Zero Trust principles, identity-driven secu
 
 ## Experience
 
-### **Cloud & Infrastructure Engineer** Compass Community Ltd <span>April 2024&ndash;Present</span>
+### **Cloud & Infrastructure Engineer** <span>April 2024&ndash;Present</span>
+Compass Community Ltd
 
 Designing and supporting cloud-first infrastructure across Microsoft Azure, Microsoft 365, and hybrid environments with a focus on identity, security, and platform reliability.
 
@@ -67,13 +68,15 @@ Designing and supporting cloud-first infrastructure across Microsoft Azure, Micr
 - Contribute to infrastructure transformation projects and service improvements  
 - Maintain technical documentation, runbooks, and change records  
 
-### **Technical Consultant** Trident Group <span>Jan 2024&ndash;Apr 2024</span>
+### **Technical Consultant** <span>Jan 2024&ndash;Apr 2024</span>
+Trident Group
 
 - Delivered technical support and implementation tasks across infrastructure environments  
 - Supported system configuration and service improvement initiatives  
 - Assisted with troubleshooting and operational maintenance activities  
 
-### **Infrastructure Support Analyst** Compass Community Ltd <span>Mar 2023&ndash;Jan 2024</span>
+### **Infrastructure Support Analyst** <span>Mar 2023&ndash;Jan 2024</span>
+Compass Community Ltd
 
 Provided 2nd and 3rd line infrastructure support across a nationwide enterprise environment.
 
@@ -88,7 +91,8 @@ Provided 2nd and 3rd line infrastructure support across a nationwide enterprise 
 - Mentored junior IT staff  
 - Provided VOIP and telephony support  
 
-### **IT Support Analyst** Compass Community Ltd <span>May 2021&ndash;Mar 2023</span>
+### **IT Support Analyst** <span>May 2021&ndash;Mar 2023</span>
+Compass Community Ltd
 
 1st and 2nd line IT support for 2,000+ users across enterprise systems.
 
